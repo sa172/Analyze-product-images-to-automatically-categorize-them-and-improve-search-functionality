@@ -1,0 +1,3 @@
+Pillow
+Azure-cognitiveservices-vision-customvision
+python-dotenv
